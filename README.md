@@ -44,6 +44,4 @@
 </div>
 
 ![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=dark&show_icons=true&hide_border=true&count_private=true)
-<br>
-![cannellee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannellee&theme=dark&hide_border=true)
 ![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=dark&show_icons=true&hide_border=true&layout=compact)
