@@ -43,7 +43,6 @@
   </div>
 </div>
 
-![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=gotham&show_icons=true&hide_border=true&layout=compact)
