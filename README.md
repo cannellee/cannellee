@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)**.
 - 🌱 I’m learning **C (including its graphic libraries), Blender, and more...**
-- 👨‍💻 You can find me at Epitech under the username @cannellegrdt.
+- 👨‍💻 You can find my Epitech acount here: @cannellegrdt.
 - 📫 Reach me at: cannelle.gourdet@epitech.eu.
 
 <div style="display: flex; justify-content: space-between;">
