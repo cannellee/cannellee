@@ -43,4 +43,4 @@
   </div>
 </div>
 
-![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=gotham&show_icons=true=true&layout=compact)
+![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=nord&show_icons=true=false&layout=compact)
