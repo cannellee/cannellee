@@ -40,6 +40,6 @@
   </div>
 </div>
 
-<hr style="border: 1px solid #ccc; margin: 5px 0;"/>
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;"/>
 
 ![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=nord&show_icons=true&hide_border=true&layout=compact)
