@@ -1,13 +1,13 @@
 <h1>Hi, I'm Cannelle !</h1>
 <h2>An Epitech student (tek1) who loves Algorithms, AI, VR, Robotics and Cybersecurity: in short, a bit of everything!</h2>
 
-- 🔭 I’m currently working on **a maze game (C) and a calculator (Python)**
+- 🔭 I’m currently working on **a maze game (C) and a calculator (Python)**.
 
 - 🌱 I’m currently learning **C (and its graphic libraries), Blender, and more...**
 
-- 👨‍💻 My epitech count is [@cannellegrdt](@cannellegrdt)
+- 👨‍💻 My epitech count is @cannellegrdt.
 
-- 📫 How to reach me **cannelle.gourdet@epitech.eu**
+- 📫 How to reach me ? cannelle.gourdet@epitech.eu.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
