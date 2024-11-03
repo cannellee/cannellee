@@ -43,10 +43,6 @@
   </div>
 </div>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cannellee&show_icons=true&locale=en&layout=compact" alt="cannellee" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cannellee&show_icons=true&locale=en" alt="cannellee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cannellee&" alt="cannellee" /></p>
+![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![cannellee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannellee&theme=dark&hide_border=true)
+![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=dark&show_icons=true&hide_border=true&layout=compact)
