@@ -1,4 +1,4 @@
-<h2>Hi, I'm Cannelle, an Epitech student (tek1) who loves algorithms, AI, VR, robotics and cybersecurity: in short, a bit of everything!</h2>
+<h1>Hi, I'm Cannelle !</h1><h2>An Epitech student (tek1) who loves algorithms, AI, VR, robotics and cybersecurity: in short, a bit of everything!</h2>
 
 - 🔭 I’m currently working on **a maze game (C) and a calculator (Python)**
 
