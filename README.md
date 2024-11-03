@@ -1,13 +1,10 @@
-<h1>Hi, I'm Cannelle !</h1>
-<h2>An Epitech student (tek1) who loves Algorithms, AI, VR, Robotics and Cybersecurity: in short, a bit of everything!</h2>
+<h1>Hi, I'm Cannelle!</h1>
+<h2>An Epitech student (tek1) passionate about Algorithms, AI, VR, Robotics, and Cybersecurity—basically, a bit of everything!</h2>
 
-- 🔭 I’m currently working on **a maze game (C) and a calculator (Python)**.
-
-- 🌱 I’m currently learning **C (and its graphic libraries), Blender, and more...**
-
-- 👨‍💻 My epitech count is @cannellegrdt.
-
-- 📫 How to reach me ? cannelle.gourdet@epitech.eu.
+- 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)**.
+- 🌱 I’m learning **C (including its graphic libraries), Blender, and more...**
+- 👨‍💻 You can find me at Epitech under the username @cannellegrdt.
+- 📫 Reach me at: cannelle.gourdet@epitech.eu.
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 10px;">
@@ -42,5 +39,5 @@
     </p>
   </div>
 </div>
-![cannellee's Stats](https://github-readme-stats.vercel.app/api?username=cannellee&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
 ![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=nord&show_icons=true&hide_border=true&layout=compact)
