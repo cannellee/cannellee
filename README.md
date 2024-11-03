@@ -1,10 +1,10 @@
 <h1>Hi, I'm Cannelle!</h1>
 <h2>An Epitech student passionate about Algorithms, AI, VR, Robotics, and Cybersecurity : in short, a bit of everything!</h2>
 
-- 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)**.
+- 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)** alongside Epitech.
 - 🌱 I’m learning **C (including its graphic libraries), Blender, and more...**
-- 👨‍💻 You can find my Epitech acount here: @cannellegrdt.
-- 📫 Reach me at: cannelle.gourdet@epitech.eu.
+- 👨‍💻 You can find my Epitech acount here : @cannellegrdt.
+- 📫 Reach me at : cannelle.gourdet@epitech.eu.
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 10px;">
