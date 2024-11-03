@@ -1,5 +1,5 @@
 <h1>Hi, I'm Cannelle!</h1>
-<h2>An Epitech student (tek1) passionate about Algorithms, AI, VR, Robotics, and Cybersecurity—basically, a bit of everything!</h2>
+<h2>An Epitech student (tek1) passionate about Algorithms, AI, VR, Robotics, and Cybersecurity : in short, a bit of everything!</h2>
 
 - 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)**.
 - 🌱 I’m learning **C (including its graphic libraries), Blender, and more...**
@@ -39,5 +39,5 @@
     </p>
   </div>
 </div>
-
+<br>
 ![cannellee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannellee&theme=nord&show_icons=true&hide_border=true&layout=compact)
