@@ -1,8 +1,8 @@
 <h1>Hi, I'm Cannelle!</h1>
-<h2>An Epitech student passionate about Algorithms, AI, VR, Robotics, and Cybersecurity : in short, a bit of everything!</h2>
+<h2>An Epitech student passionate about Algorithms, AI, Robotics, and Cybersecurity : in short, a bit of everything!</h2>
 
 - 🔭 I’m currently working on **a maze game (C)** and **a calculator (Python)** alongside my studies at Epitech.
-- 🌱 I’m learning **C (including its graphic libraries), Blender, and more...**
+- 🌱 I’m learning **C (including its graphic libraries) and more...**
 - 👨‍💻 You can find my Epitech acount here : @cannellegrdt.
 - 📫 Reach me at : cannelle.gourdet@epitech.eu.
 
