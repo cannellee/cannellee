@@ -2,7 +2,7 @@
 <h2>An Epitech student passionate about Algorithms, AI, Robotics, and Cybersecurity : in short, a bit of everything!</h2>
 
 - 🔭 I’m currently working on **a maze game (C)** alongside my studies at Epitech.
-- 🌱 I’m learning **C (including its graphic libraries) and more... at EPITECH**
+- 🌱 I’m learning **C (including its graphic libraries)** and more at EPITECH
 - 👨‍💻 You can find my Epitech acount here : @cannellegrdt.
 - 📫 Reach me at : cannelle.gourdet@epitech.eu or at https://www.linkedin.com/in/cannelle-gourdet-36a022333/.
 
